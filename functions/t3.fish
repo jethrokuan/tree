@@ -1,0 +1,1 @@
+function t3; tree --dirsfirst -ChFLQ 3 $argv; end

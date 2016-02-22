@@ -1,0 +1,1 @@
+function t6; tree --dirsfirst -ChFLQ 6 $argv; end

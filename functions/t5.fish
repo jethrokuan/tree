@@ -1,0 +1,1 @@
+function t5; tree --dirsfirst -ChFLQ 5 $argv; end
